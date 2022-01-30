@@ -1,1 +1,1 @@
-# learning-kali
+# learning-linux
