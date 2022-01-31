@@ -1,6 +1,11 @@
-References:
+Kali Linux training:
 https://www.youtube.com/watch?v=lZAoFs75_cs			//*Linux for Ethical Hackers (Kali Linux Tutorial)
-https://techdhee.in/change-username-in-kali-linux/		//*Creating and changing usernames
-https://linuxconfig.org/how-to-change-hostname-on-linux		//*Changing Linux hostnames
+
+Linux Mint (Cinnamon) install:
+https://cloudlinuxtech.com/how-to-install-linux-mint-20-01/			//*How to install Linux Mint 20.01 using a VM
+https://www.gnupg.org/download/index.html					//*GnuPG installer
+https://linuxmint-installation-guide.readthedocs.io/en/latest/install.html	//*installation details from Linux Mint
 
 Notes:
+https://techdhee.in/change-username-in-kali-linux/		//*Creating and changing usernames
+https://linuxconfig.org/how-to-change-hostname-on-linux		//*Changing Linux hostnames
